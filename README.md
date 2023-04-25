@@ -92,9 +92,7 @@ Figure 2: Percent Contact Area in a Generic Stemless Humeral Implant based on In
 Simulated implant contact area after reversed total shoulder arthroplasty is dependent on resection inclination. Higher, more valgus, neck shaft angles increase total implant-bone contact during simulated activities of daily living. It is postulated that increased contact area between implant and bone may have a positive effect on press-fit implant fixation (via. bony ingrowth). This increase in interface contact may be due to greater centralization of the loading vector through the interface (hence reducing eccentricity and lift-off), and improved bone quality with higher neck-shaft angles.  It is therefore suggested that, in order to maximize bone-implant contact postoperatively, implantation angles utilizing higher neck shaft angles may be advantageous. 
 
 ##  References
-&#91;1&#93;	Parametric Products, “CadQuery.” Github, 2022.
-
-&#91;2&#93;	P. Damm and J. Dymke, “Orthoload Database,” Julius Wolff Institute, 2021. [Online]. Available: https://orthoload.com/database/. [Accessed: 26-Jul-2021].
+&#91;1&#93;	Parametric Products, “CadQuery.” Github, 2022. <br> &#91;2&#93;	P. Damm and J. Dymke, “Orthoload Database,” Julius Wolff Institute, 2021. [Online]. Available: https://orthoload.com/database/. [Accessed: 26-Jul-2021].
 
 
 
